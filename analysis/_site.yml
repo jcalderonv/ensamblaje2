@@ -5,13 +5,16 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+      icon: fa-home
     - text: "About"
       href: about.html
+      icon: fa-info
     - text: "License"
       href: license.html
+      icon: fa-copyright
   right:
     - icon: fa-github
-      href: https://github.com/jdblischak/workflowr
+      href: https://github.com/jcalderonv/ensamblaje2
 output:
   workflowr::wflow_html:
     toc: true
