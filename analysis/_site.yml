@@ -9,6 +9,12 @@ navbar:
     - text: "About"
       href: about.html
       icon: fa-info
+    - text: "Resultados"
+      href: 30.html
+      icon: fa-calculator
+    - text: "Resultados"
+      href: 40.html
+      icon: fa-table
     - text: "License"
       href: license.html
       icon: fa-copyright
